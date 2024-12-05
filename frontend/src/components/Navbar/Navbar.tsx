@@ -9,7 +9,7 @@ const Navbar = () => {
           sx={{
             padding: "10px",
             borderBottom: "1px solid",
-              backgroundColor: "#122549",
+              backgroundColor: "#001f3d",
           }}
         >
           <Toolbar>
